@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Énoncés et support de cours
+TD_*.pdf
+td3*.pdf
+td3_correction.py
+Support_Python.pdf
+
+# Fichiers locaux
+rapport/generer_rapport.py
+data/copie.csv
+.publication/
+.sauvegarde_v3/
